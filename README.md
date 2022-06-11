@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RutvikMendpara
+- 👋 Hi, I’m Rutvik Mendpara
 - 🌐 I’m interested in web development
-- 👨‍💻 I’m currently learning computer science
-- 📫 You can reach me on<a href="https://twitter.com/Rutvik_Mendpara"> My Twitter </a>
+- 📫 You can reach me on [My Twitter](https://twitter.com/Rutvik_Mendpara "@Rutvik_Mendpara")
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
