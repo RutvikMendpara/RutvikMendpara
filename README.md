@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rutvik Mendpara
-- 🌐 Tech enthusiast, Web development
+- 🌐 Tech enthusiast, Web developer
 - 📫 You can reach me on [My Twitter](https://twitter.com/Rutvik_Mendpara "@Rutvik_Mendpara")
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
