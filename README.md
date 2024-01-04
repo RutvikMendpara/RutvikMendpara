@@ -1,9 +1,2 @@
-- 👋 Hi, I’m Rutvik Mendpara
-- 🌐 Tech enthusiast, Web developer
-- 📫 You can reach me on [My Twitter](https://twitter.com/Rutvik_Mendpara "@Rutvik_Mendpara")
-<!-- - 💞️ I’m looking to collaborate on ... -->
-
-<!---
-RutvikMendpara/RutvikMendpara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Rutvik Mendpara [Linkedin](https://www.linkedin.com/in/rutvikmendpara/), a  Full Stack Developer with a passion for system design and a commitment to addressing real-world challenges.
+My focus is on practical, impactful software development.
