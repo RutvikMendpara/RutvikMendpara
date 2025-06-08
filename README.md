@@ -1,2 +1,3 @@
-I'm [Rutvik Mendpara](https://www.linkedin.com/in/rutvikmendpara/), a  Full Stack Developer with a passion for system design and a commitment to addressing real-world challenges.
-My focus is on practical, impactful software development.
+C++ Systems Engineer focused on low-latency trading infrastructure and performance-critical software. Experienced in real-time systems, MT4/MT5 platforms, and infrastructure automation.
+
+
