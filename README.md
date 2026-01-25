@@ -1,1 +1,1 @@
-Backend Engineer focused on reliable systems, APIs, and concurrency
+Backend Engineer focused on APIs, systems design, and reliability
