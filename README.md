@@ -1,1 +1,1 @@
-Backend Engineer focused on APIs, systems design, and reliability
+Backend Engineer focused on security, infrastructure, and building reliable platform systems.
